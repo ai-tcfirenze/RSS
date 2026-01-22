@@ -9,7 +9,7 @@
   },
   {
     "name": "Il Sole 24 Ore",
-    "url": "https://www.ilsole24ore.com/rss/industria-farmaceutica"
+    "url": "https://www.ilsole24ore.com/rss/salute--imprese-e-startup.xml"
   },
   {
     "name": "Pharmastar",
@@ -76,4 +76,5 @@
     "url": "https://www.productlifegroup.com/feed"
   }
 ]
+
 
