@@ -1,3 +1,4 @@
+{
 https://www.aboutpharma.com/feed  
 https://www.notiziariochimicofarmaceutico.it/feed  
 https://www.ilsole24ore.com/rss/industria-farmaceutica  
@@ -17,3 +18,4 @@ https://www.lequotidiendupharmacien.fr/rss
 https://www.pharmabiz.fr/rss  
 https://www.roche.com/news.htm  
 https://www.productlifegroup.com/feed
+}
