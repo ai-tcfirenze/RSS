@@ -1,21 +1,79 @@
-{
-https://www.aboutpharma.com/feed  
-https://www.notiziariochimicofarmaceutico.it/feed  
-https://www.ilsole24ore.com/rss/industria-farmaceutica  
-https://www.pharmastar.it/rss  
-https://www.sanita33.it/feed  
-https://www.monitorimmobiliare.it/feed  
-https://www.europeanpharmaceuticalreview.com/feed/  
-https://www.eucope.org/rss  
-https://www.epmf.eu/rss  
-https://www.pharmaventures.com/feed  
-https://pharmaphorum.com/feed  
-https://www.farmaindustria.es/rss  
-https://www.noticiasfinancieras.es/rss  
-https://www.pharma-zeitung.de/rss  
-https://www.germanpharmanews.de/rss  
-https://www.lequotidiendupharmacien.fr/rss  
-https://www.pharmabiz.fr/rss  
-https://www.roche.com/news.htm  
-https://www.productlifegroup.com/feed
-}
+[
+  {
+    "name": "Aboutpharma",
+    "url": "https://www.aboutpharma.com/feed"
+  },
+  {
+    "name": "Notiziario Chimico Farmaceutico",
+    "url": "https://www.notiziariochimicofarmaceutico.it/feed"
+  },
+  {
+    "name": "Il Sole 24 Ore",
+    "url": "https://www.ilsole24ore.com/rss/industria-farmaceutica"
+  },
+  {
+    "name": "Pharmastar",
+    "url": "https://www.pharmastar.it/rss"
+  },
+  {
+    "name": "Sanità33",
+    "url": "https://www.sanita33.it/feed"
+  },
+  {
+    "name": "Monitor Immobiliare",
+    "url": "https://www.monitorimmobiliare.it/feed"
+  },
+  {
+    "name": "European Pharmaceutical Review",
+    "url": "https://www.europeanpharmaceuticalreview.com/feed/"
+  },
+  {
+    "name": "EUCOPE",
+    "url": "https://www.eucope.org/rss"
+  },
+  {
+    "name": "EPMF",
+    "url": "https://www.epmf.eu/rss"
+  },
+  {
+    "name": "PharmaVentures",
+    "url": "https://www.pharmaventures.com/feed"
+  },
+  {
+    "name": "PharmaPhorum",
+    "url": "https://pharmaphorum.com/feed"
+  },
+  {
+    "name": "Farmaindustria (Spagna)",
+    "url": "https://www.farmaindustria.es/rss"
+  },
+  {
+    "name": "Noticias Financieras (Spagna)",
+    "url": "https://www.noticiasfinancieras.es/rss"
+  },
+  {
+    "name": "Pharma-Zeitung (Germania)",
+    "url": "https://www.pharma-zeitung.de/rss"
+  },
+  {
+    "name": "German Pharma News",
+    "url": "https://www.germanpharmanews.de/rss"
+  },
+  {
+    "name": "Le Quotidien du Pharmacien (Francia)",
+    "url": "https://www.lequotidiendupharmacien.fr/rss"
+  },
+  {
+    "name": "Pharmabiz France",
+    "url": "https://www.pharmabiz.fr/rss"
+  },
+  {
+    "name": "Roche Newsroom",
+    "url": "https://www.roche.com/news.htm"
+  },
+  {
+    "name": "ProductLife Group",
+    "url": "https://www.productlifegroup.com/feed"
+  }
+]
+
