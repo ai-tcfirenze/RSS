@@ -16,10 +16,6 @@
     "url": "https://www.pharmastar.it/rss"
   },
   {
-    "name": "European Pharmaceutical Review",
-    "url": "https://www.europeanpharmaceuticalreview.com/feed/"
-  },
-  {
     "name": "EUCOPE",
     "url": "https://www.eucope.org/rss"
   },
@@ -30,10 +26,6 @@
   {
     "name": "European Confederation of Pharmaceutical Entrepreneurs",
     "url": "https://www.eucope.org/news/feed"
-  },
-  {
-    "name": "European Pharmaceutical Manufacturer",
-    "url": "https://pharmaceuticalmanufacturer.m/feed"
   },
   {
     "name": "PharmaBlue Blog",
@@ -56,52 +48,13 @@
     "url": "https://pharmanews.eu/?format=feed&type=rss"
   },
   {
-    "name": "PharmaLex Blog",
-    "url": "https://pharmalex.com/feed"
-  },
-  {
-    "name": "European Federation of Pharmaceutical Industries and Associations (EFPIA)",
-    "url": "https://www.efpia.eu/news-events"
-  },
-  {
-    "name": "dsm-firmenich",
-    "url": "https://our-company.dsm-firmenich.com/feed"
-  },
-  {
     "name": "PMLiVE",
     "url": "https://pmlive.com/feed"
   },
   {
-    "name": "Pharmaoffer Blog",
-    "url": "https://pharmaoffer.com/blog"
-  },
-  {
-    "name": "Véto-pharma Blog",
-    "url": "https://blog-veto-pharma.com/en/home"
-  },
-  {
-    "name": "Pipelinepharma Blog",
-    "url": "https://pipelinepharma.com/blog"
-  },
-  {
-    "name": "Pharma Europe News",
-    "url": "https://pharmafocuseurope.com/news"
-  },
-  {
-    "name": "Croda Pharma Blog",
-    "url": "https://crodapharma.com/en-gb/news-and-insights/feed"
-  },
-  {
-    "name": "Körber Pharma Blog",
-    "url": "https://koerber-pharma.com/en/blog"
-  },
-  {
     "name": "LogiPharma Blog",
     "url": "https://logipharmaeu.wbresearch.com/feed"
-  },
-  {
-    "name": "Health Europa » Pharma News",
-    "url": "https://healtheuropa.com/category/news/feed"
   }
 ]
+
 
